@@ -1,4 +1,4 @@
-# Johny AI
+# fri8nd
 ## Product Plan
 
 Version: 0.1
@@ -8,15 +8,15 @@ Status: Concept
 
 # Vision
 
-Johny AI is a local-first AI assistant that automatically organizes, understands, and manages a user's digital knowledge.
+fri8nd AI is a local-first AI assistant that automatically organizes, understands, and manages a user's digital knowledge.
 
-Instead of simply storing files, Johny understands what each file is, where it belongs, and how it connects to the rest of your knowledge.
+Instead of simply storing files, fri8nd understands what each file is, where it belongs, and how it connects to the rest of your knowledge.
 
 Think of it as:
 
 > Finder + Obsidian + Raycast + AI + Automation
 
-Johny runs quietly in the background like Dropbox, continuously keeping your digital workspace clean and searchable.
+fri8nd runs quietly in the background like Dropbox, continuously keeping your digital workspace clean and searchable.
 
 ---
 
@@ -42,7 +42,7 @@ Human Controlled.
 
 Users own their files.
 
-Johny never locks users into proprietary storage.
+fri8nd never locks users into proprietary storage.
 
 ---
 
@@ -64,7 +64,7 @@ Searching by filename no longer works.
 
 Current file managers only know filenames.
 
-Johny understands content.
+fri8nd understands content.
 
 ---
 
@@ -89,9 +89,9 @@ Secondary
 
 # Value Proposition
 
-Johny is not a file manager.
+fri8nd is not a file manager.
 
-Johny is an AI knowledge assistant.
+fri8nd is an AI knowledge assistant.
 
 Instead of asking:
 
@@ -101,7 +101,7 @@ Users ask:
 
 "What did I learn about MongoDB last week?"
 
-Johny understands the question.
+fri8nd understands the question.
 
 ---
 
@@ -190,7 +190,7 @@ User Files
 
 ↓
 
-Johny Agent
+fri8nd Agent
 
 ↓
 
@@ -321,7 +321,7 @@ Users can connect
 
 # Long-term Vision
 
-Johny should become
+fri8nd should become
 
 "The AI Operating System for Personal Knowledge."
 
